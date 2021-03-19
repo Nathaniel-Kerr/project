@@ -8,3 +8,5 @@ development:
 test:
   <<: *default
   database: "db/test.sqlite"
+
+
